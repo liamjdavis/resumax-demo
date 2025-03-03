@@ -1,0 +1,11 @@
+huggingface-hub
+langchain
+langchain-community
+langchain-huggingface
+transformers
+torch
+faiss-gpu
+pymupdf
+unstructured
+bitsandbytes
+accelerate
